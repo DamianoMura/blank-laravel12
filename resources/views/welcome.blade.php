@@ -6,5 +6,5 @@
         <p class="text-lg text-gray-700">This is the welcome page of your Laravel application.</p>
         
         jdwdev.it
-     
+    </div>
 @endsection 
