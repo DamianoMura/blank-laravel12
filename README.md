@@ -8,15 +8,40 @@
 </p>
 <img  src="https://lwfiles.mycourse.app/6368e5089f20781a7e4f1805-public/2c162927114072f9ebbf04043a593fb9.png" height="50">
 
-## specializzazione web developement
-
-# PHP
+## specializzazione web developement - PHP
 
 ---
 
-# EX - blank project
+# IT # EX - progetto vuoto
 
 ## Descrizione
+
+progetto vuoto di laravel pensato a scopo didattico messo a punto per lo svolgimento degli esercizi
+
+---
+
+## LAYOUT
+
+sistema di layout composto da un'elemento scheletro dove andiamo ad aprire il documento html con i vari tag head, links etc... <br><code>skeleton.blade.php </code>
+al momento presenta due sotto layout differenti:<br>
+<code>landing.blade.php </code> : layout per la landing page, senza header o footer, presenta il sito web con una call to action che ti porterà alla home. <br>
+<code>default.blade.php </code> : il default layout include una struttura completa di header main e footer <br>
+
+# EN # EX - blank project
+
+## Descrizione
+
+Empty Laravel 12 project for educational purposes tuned for exercises
+
+---
+
+## LAYOUT
+
+The layout system is composed by a skeleton element where we start off our HTML document with all the heading tags included
+<br><code>skeleton.blade.php </code>
+presente two different sub-layouts:<br>
+<code>landing.blade.php </code> : Lsanding page layout, no header and footer, presents the webapp and has a call to action leading to the home. <br>
+<code>default.blade.php </code> : The default layout includes a complete structure with header main and footer <br>
 
 this repo is a base app with no login:
 
