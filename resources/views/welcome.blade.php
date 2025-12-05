@@ -1,4 +1,4 @@
-@extends('layouts.default')
+@extends('layouts.multi.default')
 @section('content')
     <div class="container mx-auto my-5 text-center">
        
